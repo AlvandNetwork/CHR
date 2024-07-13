@@ -1,1 +1,1 @@
-<h1 align="center"/>Welcome to wizwiz</h1>
+<h1 align="center"/>WELCOME</h1>
