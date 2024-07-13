@@ -14,3 +14,5 @@ If you have an ubuntu virtual server and you have an installment plan, install M
 ```
 bash <(curl -s https://raw.githubusercontent.com/alvandnetwork/chr/main/CHR.sh)
 ```
+
+<h1 align="center"/>Version: 1.0</h1>
