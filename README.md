@@ -8,5 +8,9 @@ Convert Ubuntu operating system to MikroTik CHR
 If you have an ubuntu virtual server and you have an installment plan, install MikroTik. With this script, you can completely convert your Ubuntu operating system to MikroTik.
 </p>
 
-> Supported operating systems:  Ubuntu 22.04 / Ubuntu 20.04 LTS
+> Supported operating systems: Ubuntu 22.04 / Ubuntu 20.04 LTS
 
+# Run the script
+```
+bash <(curl -s https://raw.githubusercontent.com/alvandnetwork/chr/main/CHR.sh)
+```
