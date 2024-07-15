@@ -20,7 +20,7 @@ center_text() {
 
 # Loading animation
 loading() {
-    local duration=0
+    local duration=2
     local interval=0.2
     local chars="/-\|"
 
